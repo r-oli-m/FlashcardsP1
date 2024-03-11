@@ -1,5 +1,5 @@
-# Web Development Project 2 - *Flaschards P1*
-Submitted by: **Your Name Here**
+# Web Development Project 2 - *Flashcards P1*
+Submitted by: **Reva Mahto**
 
 This web app: **Practice Korean vocabulary essentials for college related items**
 
